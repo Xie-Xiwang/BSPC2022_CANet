@@ -2,7 +2,7 @@
 
 Train：
 
-    'python main.py --action train  --epoch 50 --batch_size 4'
+    python main.py --action train  --epoch 50 --batch_size 4
 
 Test：
 
