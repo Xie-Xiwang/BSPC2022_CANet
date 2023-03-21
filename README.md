@@ -1,17 +1,17 @@
 # BSPC2022_CANet
 
-Train：
+# Train：
 
     python main.py --action train  --epoch 50 --batch_size 4
 
-Test：
+# Test：
 
     python main.py --action test  --epoch 50 --batch_size 4
 
 
 
 
-
+# Bibtex
 
     @article{xie2023canet,
       title={CANet: Context aware network with dual-stream pyramid for medical image segmentation},
