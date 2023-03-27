@@ -11,7 +11,7 @@
 
 
 
-# Bibtex
+# Citation
 
     @article{xie2023canet,
       title={CANet: Context aware network with dual-stream pyramid for medical image segmentation},
